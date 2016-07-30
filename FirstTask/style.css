@@ -1,0 +1,30 @@
+#container{
+	
+	font-size:120%;
+	font-family:sans-serif;
+	margin:0 auto;
+	max-width: 50em;
+	background-color:#fff;
+	
+	
+border-radius: 18px;
+border: 1px solid #eee;
+padding-left: 2%;
+padding-right: 2%
+}
+a{
+	text-decoration:none;
+	color:f0ad2c;
+}
+a:hover{
+	color:black;
+}
+img{
+	width:100%;
+	
+	
+}
+body{
+	margin:0 auto;
+background-color:e5e5e5;
+}
