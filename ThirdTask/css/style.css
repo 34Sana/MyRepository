@@ -1,0 +1,77 @@
+body{
+    font-family:'Roboto';
+    	
+}
+
+header{
+    background-color:white; 
+}
+
+nav{
+    background-color:white;
+    
+}
+
+a{
+    text-decoration: none;
+}
+
+.logo{
+    background-color:white;
+    
+}
+
+.cover{
+     padding: 10vw 0em;  
+    background-image: url('../img/cover.jpg');  
+     
+    
+     background-size: cover; 
+ 
+   
+}
+
+.cover h3{ 
+     color: #fff; 
+    background-color: rgba(44,62,80,.7); 
+     padding: 10px 50px ; 
+     display: inline-block; 
+     border-radius: 60px; 
+ } 
+
+
+
+
+
+ span{
+    font-weight:bold;
+    
+}
+
+
+
+.logo h1{
+   
+    font-weight:700%;
+}
+
+button{
+    font-family: 'Roboto'; 
+     background-color: #2c3e50; 
+     color: #fff;
+}
+aside{
+    padding-top: 25px;
+   
+    background-color:#f9f9f9;
+}
+
+blockquote:before{
+    content: open-quote;
+    color:#ccc;
+}
+blockquote:after{
+    content: close-quote;
+    color:#ccc;
+    
+}
